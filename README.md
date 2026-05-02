@@ -73,16 +73,6 @@ Always curious, always shipping.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Elay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elayben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elayben&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Build things. Break things. Learn things."*
-
+  <img src="https://github-readme-stats.vercel.app/api?username=elayben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elayben&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="165" />
 </div>
