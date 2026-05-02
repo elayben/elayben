@@ -76,6 +76,4 @@ Always curious, always shipping.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=elayben&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elayben&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
